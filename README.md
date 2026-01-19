@@ -14,6 +14,12 @@ Senior QA Automation Engineer | ISTQB® Certified<br><br>With over 8 years of ex
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+### ⚡ Performance & Unit Testing
+![K6](https://img.shields.io/badge/-K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
+
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,11 +33,8 @@ Senior QA Automation Engineer | ISTQB® Certified<br><br>With over 8 years of ex
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚡ Performance & Unit Testing
-![K6](https://img.shields.io/badge/-K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thiago8rocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thiago8rocha&theme=dark&hide_border=false)<br/>
