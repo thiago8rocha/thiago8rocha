@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior QA Analyst | ISTQB® Certified<br><br>With over 8 years of experience in Software Quality Assurance, I specialize in building robust automation architectures and improving QA processes in Agile environments. Currently, I'm focused on enhancing e-commerce reliability at Locaweb (Wake Experience).<br><br>My mission is to bridge the gap between development and business, ensuring high-quality deliveries through risk analysis, continuous improvement, and automation.
+Senior QA Analyst | ISTQB® Certified<br><br>With over 8 years of experience in Software Quality Assurance, I specialize in building robust automation architectures and improving QA processes in Agile environments.<br><br>My mission is to bridge the gap between development and business, ensuring high-quality deliveries through risk analysis, continuous improvement, and automation.
 
 
 ## 🌐 Socials:
